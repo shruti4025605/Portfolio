@@ -7,7 +7,7 @@ It showcases my skills, projects, and contact information in a clean, modern lay
 - Responsive design for all screen sizes
 - About Me section
 - Skills section
-- Projects section with **live demos + source code links**
+- Projects section 
 - Contact form
 
 ## 🛠️ Tech Stack
@@ -20,4 +20,4 @@ It showcases my skills, projects, and contact information in a clean, modern lay
 
 ## 📂 GitHub Repository
 👉 [Source Code](https://github.com/shruti4025605/Portfolio)
-# Portfolio
+
