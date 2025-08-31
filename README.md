@@ -21,6 +21,11 @@ It showcases my skills, projects, and contact information in a clean, modern lay
 ## 📂 GitHub Repository
 👉 [Source Code](https://github.com/shruti4025605/Portfolio)
 
+## 🚀 Projects
+
+### 🔹 Calculator App
+- A sleek calculator built with HTML, CSS, and JavaScript.  
+- [Live Demo](https://shruti4025605.github.io/Calculator-app/) | [Repo](https://github.com/shruti4025605/Calculator-app)
 ### 🔹 Quiz App
 - Interactive Quiz application with multiple choice questions, score tracking, and restart option.  
 - [Live Demo](https://shruti4025605.github.io/quiz-app/) | [Repo](https://github.com/shruti4025605/quiz-app)
