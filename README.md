@@ -21,3 +21,6 @@ It showcases my skills, projects, and contact information in a clean, modern lay
 ## 📂 GitHub Repository
 👉 [Source Code](https://github.com/shruti4025605/Portfolio)
 
+### 🔹 Quiz App
+- Interactive Quiz application with multiple choice questions, score tracking, and restart option.  
+- [Live Demo](https://shruti4025605.github.io/quiz-app/) | [Repo](https://github.com/shruti4025605/quiz-app)
